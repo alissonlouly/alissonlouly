@@ -1,7 +1,5 @@
-### Hi there 👋, Alisson Louly's Repositorio
 
-### Tools
-<img src="[![Slide1](https://user-images.githubusercontent.com/88464276/228962593-59089261-36ad-4ce9-aeb7-ec1f9d703e52.jpg)]>
+<img src="[![Slide1](https://user-images.githubusercontent.com/88464276/228962593-59089261-36ad-4ce9-aeb7-ec1f9d703e52.jpg)]
 
 <!--
 **alissonlouly/alissonlouly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
